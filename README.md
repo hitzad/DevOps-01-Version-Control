@@ -12,5 +12,8 @@
 ### Beschreibung der Zusammenarbeit
 Hallo Magjuni, wie geht es Dir?
 
+Hallo mir geht es super, wie geht es dir?
+Test 123
+
 
 ## Eigenes Lernjournal
