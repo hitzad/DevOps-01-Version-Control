@@ -15,8 +15,7 @@ Hallo Magjuni, wie geht es Dir?
 Hallo mir geht es super, wie geht es dir?
 Test 123
 
-In unserer Zusammenarbeit im Rahmen des Moduls haben wir direkt im README-File gearbeitet. Dabei kam es zu einem echten Merge-Konflikt, da mehrere Änderungen an derselben Stelle vorgenommen wurden. Diesen Konflikt haben wir manuell aufgelöst, und der Prozess ist anhand der Commits im Repository klar nachvollziehbar dokumentiert. Das praktische Erleben eines Konflikts und dessen Lösung war sehr lehrreich und hat das Verständnis für die Funktionsweise von Git und Pull Requests deutlich vertieft.
-
+In unserer Zusammenarbeit im Rahmen des Moduls haben wir direkt im README-File gearbeitet. Was oberhalb ersichtlich ist. Im Rahmen der Zusammenarbeit im Modul DevOps haben wir einen Pull Request erstellt, um Änderungen aus einem separaten Branch in den Hauptbranch (main) zu integrieren. Im Commit-Verlauf auf GitHub ist ersichtlich, dass mehrere Beiträge zum Projekt erfolgten: Zunächst wurde durch mich (hitzad) das Projekt gestartet und ein neues File erstellt ("File eröffnung"). Anschliessend hat mein Teamkollege (AltinMagjuni) eine Änderung vorgenommen und diese mit dem Commit "neues file bestätigt" dokumentiert. Durch diese parallele Bearbeitung am selben File kam es zu einem Merge-Konflikt, der im weiteren Verlauf manuell gelöst wurde. Der Pull Request mit dem abschliessenden Commit "Pull Request" (ebenfalls durch mich) zeigt, dass die Änderungen erfolgreich zusammengeführt wurden. Der gesamte Prozess – von der Erstellung des Branches über die Durchführung von Änderungen bis hin zum Merge über den Pull Request – ist im Commit-Verlauf auf GitHub transparent nachvollziehbar und demonstriert die praktische Anwendung zentraler Git-Funktionalitäten im Teamkontext.
 
 
 ## Eigenes Lernjournal
