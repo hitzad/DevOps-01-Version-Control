@@ -15,6 +15,9 @@ Hallo Magjuni, wie geht es Dir?
 Hallo mir geht es super, wie geht es dir?
 Test 123
 
+In unserer Zusammenarbeit im Rahmen des Moduls haben wir direkt im README-File gearbeitet. Dabei kam es zu einem echten Merge-Konflikt, da mehrere Änderungen an derselben Stelle vorgenommen wurden. Diesen Konflikt haben wir manuell aufgelöst, und der Prozess ist anhand der Commits im Repository klar nachvollziehbar dokumentiert. Das praktische Erleben eines Konflikts und dessen Lösung war sehr lehrreich und hat das Verständnis für die Funktionsweise von Git und Pull Requests deutlich vertieft.
+
+
 
 ## Eigenes Lernjournal
 
