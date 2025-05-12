@@ -35,3 +35,22 @@ Ein Pull Request (PR) dient dazu, Änderungen aus einem Feature-Branch in den Ha
 **Merge-Konflikte**
 Beim Mergen kann es vorkommen, dass zwei Branches dieselbe Datei an denselben Stellen verändert haben – in solchen Fällen spricht man von Merge-Konflikten. Git kann dann die Änderungen nicht automatisch zusammenführen und fordert dazu auf, die Konflikte manuell zu lösen. In meinem Fall trat ein solcher Konflikt auf, den ich durch gezielte manuelle Bearbeitung der betroffenen Datei bereinigt habe. Danach konnte der Merge erfolgreich abgeschlossen und der Pull Request abgeschlossen werden.
 
+## ✍️ Reflexion & Erkenntnisse
+
+- **Git** ist mehr als nur „Code speichern“ – es ist die Grundlage für Teamarbeit in der Softwareentwicklung.
+- Der praktische Umgang mit **Branches** und **Pull Requests** hilft, saubere und nachvollziehbare Entwicklungen sicherzustellen.
+- Merge-Konflikte sind kein Bug, sondern ein Feature – sie zeigen auf, wo aktive Zusammenarbeit stattfindet.
+- Die gemeinsame Arbeit an einem Repository hat gezeigt, wie wichtig klar strukturierte Commits und Kommunikation sind.
+
+---
+
+## ✅ Checkliste laut Bewertungsvorgaben
+
+- [x] GitHub Repository erstellt & verwendet  
+- [x] Zusammenarbeit mit Peer dokumentiert  
+- [x] Branches verwendet  
+- [x] Pull Requests erstellt und abgeschlossen  
+- [x] Merge-Konflikt erzeugt & gelöst  
+- [x] Commit-Historie dokumentiert  
+- [x] Screenshots eingefügt (`/images`)  
+
